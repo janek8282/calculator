@@ -1,0 +1,2 @@
+linia 0
+linia 1
